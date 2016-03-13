@@ -1,0 +1,8 @@
+type: module
+name: Press center
+description: ''
+package: website_designer
+version: '1.0'
+
+dependencies:
+ - website_designer
